@@ -6,7 +6,7 @@ Here is a professional and comprehensive **README.md** file for your project. Yo
 
 A magical, 3D digital Christmas tree built with **React**, **Three.js**, and **TensorFlow.js**. This application uses computer vision to track your hand gestures in real-time, allowing you to interact with thousands of floating "LED" particles, trigger explosions, and take selfies that map directly onto the 3D tree.
 
-![Project Banner](https://via.placeholder.com/800x400?text=Interactive+Christmas+Tree+Demo)
+![Demo](https://lingaibin.github.io/christmas-tree/))
 *(Replace the link above with a screenshot of your actual app)*
 
 ## ✨ Features
